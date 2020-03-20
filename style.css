@@ -1,0 +1,72 @@
+body {
+    margin: 20px;
+    padding: 2px;
+                
+}
+.jumbotron-fluid {
+    background-color: seashell;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.main {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    }
+.main .navbar-brand{
+    color: white;
+}
+.main .navbar-nav li .nav-link {
+    color: white;
+}
+.pic img {
+    width: 670px;
+    margin: 5px;
+    padding-bottom: 5px;
+}
+.pic-vertical img{
+    width: 430px;
+    margin: 5px;
+    padding-bottom: 1px;
+}
+.main-text {
+    padding-top: 20px;
+    margin: 5px;
+    padding-bottom: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.card-group {
+    width: inherit;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#image-link {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 10;
+    width: 200px;
+    height: 200px;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
+}
+.p-block {
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 36px;
+}
+.form-contact {
+    padding-top: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.text-center {
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-bottom: 20px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.6;
+}
